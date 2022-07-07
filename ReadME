@@ -1,1 +1,2 @@
-This program looks at the Ascii value of text typed into the textbox at the bottom of the window. From that it determines what key was pressed and then makes that key green on the corresponding button above.
+This program looks at the Ascii value of text typed into the textbox at the bottom of the window.
+From that it determines what key was pressed and then makes that key green on the corresponding button above.
